@@ -1,4 +1,4 @@
-import React from 'react'
+/* import React from 'react'
 
 import CustomButton from './CustomButton';
 
@@ -41,4 +41,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
   )
 }
 
-export default AIPicker
+export default AIPicker */
